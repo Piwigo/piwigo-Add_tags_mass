@@ -2,7 +2,7 @@
   <h2>{'Add tags Mass'|@translate}</h2>
 </div>
 
-<form method="post" action="{$F_ACTION}" enctype="multipart/form-data">
+<form method="post" enctype="multipart/form-data">
 <fieldset>
   <legend>{'Text model'|@translate}</legend>
   <p style="margin:0 0 15px 0; text-align:left;">
