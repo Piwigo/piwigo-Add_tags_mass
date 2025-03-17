@@ -1,0 +1,1 @@
+Umožní vložit tagy hromadně skrze formulář

@@ -1,0 +1,1 @@
+Ajouter des tags en masse depuis un formulaire

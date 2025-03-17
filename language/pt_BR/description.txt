@@ -1,0 +1,1 @@
+Adiciona etiquetas em massa a partir de um formulário.

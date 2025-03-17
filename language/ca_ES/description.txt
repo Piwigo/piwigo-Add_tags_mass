@@ -1,0 +1,1 @@
+Permet crear múltiples etiquetes fàcilment amb un formulari
